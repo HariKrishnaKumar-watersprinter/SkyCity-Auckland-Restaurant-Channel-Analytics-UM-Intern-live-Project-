@@ -1,4 +1,4 @@
-# 🍽️ SkyCity Channel Analytics & Decision Intelligence Platform
+# 🍽️ SkyCity Auckland Restaurant Channel Analytics
 
 A **full-stack data science & business intelligence project** that analyzes restaurant order channels, detects risks, and provides AI-driven strategic recommendations for **SkyCity Auckland Restaurants & Bars**.
 
