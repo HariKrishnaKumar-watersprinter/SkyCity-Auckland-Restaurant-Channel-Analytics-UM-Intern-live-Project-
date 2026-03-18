@@ -33,7 +33,7 @@ def show(df):
         nbins=30,
         title="Aggregator Dependence Distribution"
     )
-    fig.update_traces(texttemplate='%{y:,.0f}', textposition='inside',textangle=270,textfont_size=100)
+    fig.update_traces(texttemplate='%{y:,.0f}', textposition='inside')
     st.plotly_chart(fig, use_container_width=True)
 
     # Risk by Subregion
@@ -50,7 +50,7 @@ def show(df):
         color="ChannelRiskProfile",
         barmode="stack"
     )
-    fig2.update_traces(texttemplate='%{y:,.0f}', textposition='inside',textangle=270,textfont_size=100)
+    fig2.update_traces(texttemplate='%{y:,.0f}', textposition='inside')
     st.plotly_chart(fig2, use_container_width=True)
 
     st.subheader("Restaurant Risk Table")
