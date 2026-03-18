@@ -239,8 +239,8 @@ Deploy easily on **Streamlit Cloud**:
 
 ## 👨‍💻 Author
 
-**Your Name**
-Data Science & Analytics Enthusiast
+**Hari Krishna Kumar**
+AI,ML,Data Science & Analytics Enthusiast
 
 ---
 
