@@ -16,7 +16,7 @@ def show(df):
         nbins=30,
         title="Diversification Score Distribution"
     )
-
+    fig.update_traces(texttemplate='%{y:,.0f}', textposition='inside')
     st.plotly_chart(fig, use_container_width=True)
 
     # Boxplot by segment
