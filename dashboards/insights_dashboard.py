@@ -1,6 +1,6 @@
 import streamlit as st
 from utils.helpers import advanced_insights
-
+from utils.report_generator import generate_report
 def show(df):
 
     st.header("Business Insights")
