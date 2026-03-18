@@ -94,10 +94,6 @@ skycity_channel_analytics/
 │   ├── feature_engineering.py
 │   ├── analytics.py
 │   ├── anomaly_detection.py
-│   ├── ml_models.py
-│   ├── forecast_model.py
-│   ├── recommendation_engine.py
-│   ├── performance_model.py
 │   ├── risk_model.py
 │
 ├── dashboards/
@@ -108,14 +104,8 @@ skycity_channel_analytics/
 │   ├── profitability_analysis.py
 │   ├── diversification_dashboard.py
 │   ├── dependency_risk.py
-│   ├── restaurant_clustering.py
-│   ├── geographic_analysis.py
-│   ├── channel_flow.py
 │   ├── anomaly_dashboard.py
-│   ├── forecast_dashboard.py
-│   ├── recommendation_dashboard.py
 │   ├── insights_dashboard.py
-│   ├── performance_dashboard.py
 │
 ├── utils/
 │   ├── helpers.py
