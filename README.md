@@ -60,28 +60,18 @@ This project builds an **interactive analytics platform** to:
 * Channel diversification score
 * Restaurant risk ranking
 
-### 🤖 Machine Learning
-
-* Demand forecasting (Random Forest)
-* Restaurant clustering (K-Means)
-* Anomaly detection (IQR + Z-score + Isolation Forest)
-
 ### 🧩 Decision Intelligence
 
-* Strategy recommendation engine
 * Automated business insights generator
 * Restaurant performance scoring model
 
 ### 🌍 Advanced Visualizations
 
 * Interactive dashboards (Streamlit)
-* Sankey flow diagram
-* Geographic map (PyDeck)
 * KPI cards & executive dashboards
 
 ### 📄 Automation
 
-* Executive PDF report generator
 * Real-time analytics dashboard
 
 ---
@@ -179,19 +169,10 @@ streamlit run app.py
 * Dependency Risk Dashboard
 * Performance Ranking Dashboard
 
-### 🤖 AI Modules
-
-* Demand Forecasting
-* Restaurant Clustering
-* Strategy Recommendation Engine
-
 ### 🔍 Advanced Analytics
 
 * Anomaly Detection Dashboard
 * Automated Insights Generator
-* Channel Flow Visualization (Sankey)
-* Geographic Distribution Map
-
 ---
 
 ## 📊 Performance Scoring Model
@@ -232,9 +213,6 @@ Performance Score =
 * Streamlit 📊
 * Pandas & NumPy
 * Plotly (Visualization)
-* Scikit-learn (ML Models)
-* PyDeck (Maps)
-* ReportLab (PDF Reports)
 
 ---
 
