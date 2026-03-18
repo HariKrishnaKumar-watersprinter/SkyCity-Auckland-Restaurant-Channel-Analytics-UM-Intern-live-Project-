@@ -19,7 +19,6 @@ This project builds an **interactive analytics platform** to:
 ✔ Analyze channel performance
 ✔ Identify dependency risks
 ✔ Detect anomalies & outliers
-✔ Forecast demand using ML
 ✔ Recommend optimal channel strategies
 ✔ Rank restaurants using AI scoring
 
@@ -62,6 +61,7 @@ This project builds an **interactive analytics platform** to:
 
 ### 🧩 Decision Intelligence
 
+* Strategy recommendation engine
 * Automated business insights generator
 * Restaurant performance scoring model
 
@@ -72,6 +72,7 @@ This project builds an **interactive analytics platform** to:
 
 ### 📄 Automation
 
+* Executive PDF report generator
 * Real-time analytics dashboard
 
 ---
@@ -171,8 +172,8 @@ streamlit run app.py
 
 ### 🔍 Advanced Analytics
 
-* Anomaly Detection Dashboard
 * Automated Insights Generator
+
 ---
 
 ## 📊 Performance Scoring Model
@@ -213,6 +214,7 @@ Performance Score =
 * Streamlit 📊
 * Pandas & NumPy
 * Plotly (Visualization)
+* ReportLab (PDF Reports)
 
 ---
 
@@ -247,3 +249,4 @@ Data Science & Analytics Enthusiast
 Give it a ⭐ on GitHub and share your feedback!
 
 ---
+
