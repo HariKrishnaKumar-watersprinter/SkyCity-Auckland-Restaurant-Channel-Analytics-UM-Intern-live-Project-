@@ -22,7 +22,7 @@ st.set_page_config(
 st.title("🏙️ SkyCity Auckland Restaurant Channel Analytics")
 st.markdown("**SkyCity Auckland Restaurants & Bars** • Hospitality Analytics Dashboard")
 # Load data
-df = load_data(r"F:\Project\unified mentor\skycity_channel_analytics\data\SkyCity Auckland Restaurants & Bars.csv")
+df = load_data()
 
 df = validate_order_counts(df)
 df = validate_channel_share(df)
