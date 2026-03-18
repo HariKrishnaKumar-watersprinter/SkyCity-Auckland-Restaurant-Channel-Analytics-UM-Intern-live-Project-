@@ -22,7 +22,7 @@ def show(df):
         barmode="group",
         color_discrete_sequence=px.colors.qualitative.Prism
     )
-    fig.update_traces(texttemplate='%{y:,.0f}', textposition='inside',textangle=270,textfont_size=100)
+    fig.update_traces(texttemplate='%{y:,.0f}', textposition='inside',textangle=270,textfont_size=50)
     st.plotly_chart(fig, use_container_width=True)
     st.header("Segment vs Channel Distribution")
     
