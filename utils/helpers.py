@@ -1,3 +1,4 @@
+import streamlit as st
 def advanced_insights(df):
 
     insights = []
@@ -12,7 +13,9 @@ def advanced_insights(df):
     ].sum().idxmax()
 
     insights.append(f"{top_channel} is the dominant ordering channel.")
+    top_cuisine = df.groupby("CuisineType")["MonthlyOrders"].sum().idxmax()
 
+    insights.append(f"{top_cuisine} is the highest demand cuisine.")
     risky = (df["UE_share"] + df["DD_share"] >= 0.70).sum()
 
     insights.append(
