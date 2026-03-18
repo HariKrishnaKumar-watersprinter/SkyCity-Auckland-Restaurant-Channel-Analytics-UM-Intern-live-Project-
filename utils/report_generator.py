@@ -14,7 +14,7 @@ def generate_report(insights):
     )
 
     for i in insights:
-        story.append(Paragraph(i, styles['Normal']))
+        story.append(Paragraph(i, styles['Normal'],bulletText="•"))
 
     doc = SimpleDocTemplate(path)
 
