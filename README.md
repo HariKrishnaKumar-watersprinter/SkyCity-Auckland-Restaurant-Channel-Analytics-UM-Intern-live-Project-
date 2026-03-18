@@ -240,7 +240,7 @@ Deploy easily on **Streamlit Cloud**:
 ## 👨‍💻 Author
 
 **Hari Krishna Kumar**
-AI,ML,Data Science & Analytics Enthusiast
+-AI,ML,Data Science & Analytics Enthusiast
 
 ---
 
