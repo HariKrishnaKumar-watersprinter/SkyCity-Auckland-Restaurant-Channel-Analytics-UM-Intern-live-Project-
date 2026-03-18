@@ -1,8 +1,9 @@
 from reportlab.platypus import SimpleDocTemplate, Paragraph
 from reportlab.lib.styles import getSampleStyleSheet
-
-def generate_report(insights):
-
+from utils.helpers import advanced_insights
+def generate_report(df):
+    
+    insights=advanced_insights(df)
     path = "executive_report.pdf"
 
     styles = getSampleStyleSheet()
