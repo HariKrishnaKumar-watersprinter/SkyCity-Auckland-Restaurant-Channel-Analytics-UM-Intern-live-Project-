@@ -1,5 +1,5 @@
 # 🍽️ SkyCity Auckland Restaurant Channel Analytics
-Deployed link: [skycity-auckland-restaurant-channel-analytics-um-intern-live-project- ∙ main ∙ app.py](https://skycity.streamlit.app/)
+Deployed link: [skycity-auckland-restaurant-channel-analytic app](https://skycity.streamlit.app/)
 
 A **full-stack data science & business intelligence project** that analyzes restaurant order channels, detects risks, and provides AI-driven strategic recommendations for **SkyCity Auckland Restaurants & Bars**.
 
